@@ -651,10 +651,9 @@ O modificador é separado do nome do bloco ou elemento por dois sublinhado (\--)
 
 ```CSS
 .search-form__input--error {
-    border: 1px solid red; tetete
+    border: 1px solid red; 
 }
 ```
 
 Saiba mais: [Metodologia BEM](https://desenvolvimentoparaweb.com/css/bem/)
 
-teste
