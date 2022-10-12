@@ -651,7 +651,7 @@ O modificador é separado do nome do bloco ou elemento por dois sublinhado (\--)
 
 ```CSS
 .search-form__input--error {
-    border: 1px solid red;
+    border: 1px solid red; tetete
 }
 ```
 
